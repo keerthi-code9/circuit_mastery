@@ -8,7 +8,7 @@ To verify Ohm's Law through simulation and understand the relationship between v
 ## Theory
 
 
-::contentReference[oaicite:0]{index=0}
+
 
 
 Ohm's Law states that the current flowing through an ohmic conductor is directly proportional to the applied voltage and inversely proportional to its resistance, provided temperature and other physical conditions remain constant.
@@ -23,8 +23,8 @@ Ohm's Law states that the current flowing through an ohmic conductor is directly
 - Resistor 2: **1 kΩ**
 
 > *Insert circuit schematic here.*
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/5f727146-9137-4919-9ff6-60715c293cb9" />
 
----
 
 ## Prediction
 
@@ -44,7 +44,8 @@ Before simulation:
 | 100 Ω | 5 V | 50 mA |
 | 1 kΩ | 5 V | 5 mA |
 
-> *Insert simulation screenshot here.*
+<img width="642" height="582" alt="image" src="https://github.com/user-attachments/assets/0ca19b9a-ba25-46a1-a124-338b2cf0bdb5" />
+
 
 ---
 
